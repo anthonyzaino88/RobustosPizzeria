@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/RobustosPizzeria/static/js/main.6d1a98c9.chunk.js",
+    "main.js.map": "/RobustosPizzeria/static/js/main.6d1a98c9.chunk.js.map",
+    "runtime-main.js": "/RobustosPizzeria/static/js/runtime-main.963cf800.js",
+    "runtime-main.js.map": "/RobustosPizzeria/static/js/runtime-main.963cf800.js.map",
+    "static/js/2.167d1095.chunk.js": "/RobustosPizzeria/static/js/2.167d1095.chunk.js",
+    "static/js/2.167d1095.chunk.js.map": "/RobustosPizzeria/static/js/2.167d1095.chunk.js.map",
+    "static/js/3.63fab6d4.chunk.js": "/RobustosPizzeria/static/js/3.63fab6d4.chunk.js",
+    "static/js/3.63fab6d4.chunk.js.map": "/RobustosPizzeria/static/js/3.63fab6d4.chunk.js.map",
+    "index.html": "/RobustosPizzeria/index.html",
+    "static/js/2.167d1095.chunk.js.LICENSE.txt": "/RobustosPizzeria/static/js/2.167d1095.chunk.js.LICENSE.txt",
+    "static/media/bigboy.c2a3d70c.jpg": "/RobustosPizzeria/static/media/bigboy.c2a3d70c.jpg",
+    "static/media/pizza1.bfdacf35.jpg": "/RobustosPizzeria/static/media/pizza1.bfdacf35.jpg",
+    "static/media/product-1.c3ec83b9.jpg": "/RobustosPizzeria/static/media/product-1.c3ec83b9.jpg",
+    "static/media/product-2.66c7ad31.jpg": "/RobustosPizzeria/static/media/product-2.66c7ad31.jpg",
+    "static/media/product-3.25a60347.jpg": "/RobustosPizzeria/static/media/product-3.25a60347.jpg",
+    "static/media/sweets1.5dab7834.jpg": "/RobustosPizzeria/static/media/sweets1.5dab7834.jpg",
+    "static/media/sweets2.027689de.jpg": "/RobustosPizzeria/static/media/sweets2.027689de.jpg",
+    "static/media/sweets3.8103cc9f.jpg": "/RobustosPizzeria/static/media/sweets3.8103cc9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.963cf800.js",
+    "static/js/2.167d1095.chunk.js",
+    "static/js/main.6d1a98c9.chunk.js"
+  ]
+}
