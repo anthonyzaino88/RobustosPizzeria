@@ -19,7 +19,7 @@ const Hero = () => {
   <HeroContent>
     <HeroItems>
     <HeroH1>Brick Oven Pizza.</HeroH1>
-    <HeroP>Local Organic Ingreidents.</HeroP>
+    <HeroP>Local Organic Ingredients.</HeroP>
     <HeroBtn>Place Order</HeroBtn>
     </HeroItems>
   </HeroContent>
